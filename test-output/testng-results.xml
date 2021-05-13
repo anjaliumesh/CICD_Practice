@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-13T12:15:20 PDT" name="Suite" finished-at="2021-05-13T12:16:22 PDT" duration-ms="62441">
+    <groups>
+    </groups>
+    <test started-at="2021-05-13T12:15:20 PDT" name="Test" finished-at="2021-05-13T12:16:22 PDT" duration-ms="62441">
+      <class name="CICD_Practice.CICD_Practice.SampleTest">
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:15:20 PDT" name="launchdriver" finished-at="2021-05-13T12:15:32 PDT" duration-ms="12148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="test1()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:15:32 PDT" name="test1" finished-at="2021-05-13T12:15:39 PDT" duration-ms="7203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:15:39 PDT" name="quit" finished-at="2021-05-13T12:15:41 PDT" duration-ms="1354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:15:41 PDT" name="launchdriver" finished-at="2021-05-13T12:15:52 PDT" duration-ms="11097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="test2()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:15:52 PDT" name="test2" finished-at="2021-05-13T12:16:05 PDT" duration-ms="13230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:16:05 PDT" name="quit" finished-at="2021-05-13T12:16:07 PDT" duration-ms="1640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:16:07 PDT" name="launchdriver" finished-at="2021-05-13T12:16:18 PDT" duration-ms="10971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="test3()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:16:18 PDT" name="test3" finished-at="2021-05-13T12:16:21 PDT" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:CICD_Practice.CICD_Practice.SampleTest@1a04f701]" started-at="2021-05-13T12:16:21 PDT" name="quit" finished-at="2021-05-13T12:16:22 PDT" duration-ms="1436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- CICD_Practice.CICD_Practice.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
